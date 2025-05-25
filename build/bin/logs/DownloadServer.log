@@ -1,0 +1,6 @@
+[2025-05-25 10:37:27.743] [info] [thread 27833] Initializing download server on port 10280 with thread pool size 8
+[2025-05-25 10:37:27.744] [info] [thread 27833] Server started on port 10280
+[2025-05-25 10:37:27.744] [info] [thread 27846] Server loop started
+[2025-05-25 10:37:41.301] [info] [thread 27840] New client connected (handled by thread pool)
+[2025-05-25 10:42:26.561] [info] [thread 27833] Stopping server...
+[2025-05-25 10:42:30.524] [info] [thread 27840] Client disconnected

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -O3 -DNDEBUG -O3 CMakeFiles/client.dir/client.cpp.o -o bin/client  /usr/lib/x86_64-linux-gnu/libspdlog.so.1.12.0 /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 

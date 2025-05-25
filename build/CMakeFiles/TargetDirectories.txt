@@ -1,0 +1,9 @@
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/downloader_core.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/server.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/client.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/edit_cache.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/rebuild_cache.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/list_install_components.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/install.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/install/local.dir
+/home/gew/Desktop/work/Downloader/build/CMakeFiles/install/strip.dir

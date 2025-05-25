@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdownloader_core.a CMakeFiles/downloader_core.dir/ThreadPool/ThreadPool.cpp.o CMakeFiles/downloader_core.dir/DownloaderCore/DownloadTask.cpp.o CMakeFiles/downloader_core.dir/DownloaderCore/Downloader.cpp.o
+/usr/bin/ranlib lib/libdownloader_core.a

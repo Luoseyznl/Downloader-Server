@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -O3 -DNDEBUG -O3 CMakeFiles/server.dir/server.cpp.o -o bin/server  lib/libdownloader_core.a /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libspdlog.so.1.12.0 /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 
