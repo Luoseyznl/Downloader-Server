@@ -45,9 +45,4 @@ make -j
 - 日志文件保存在 `logs/downloader.log`
 - 可用 `tail -f logs/downloader.log` 实时查看
 
-## 注意事项
-
-- 仅支持支持 HTTP Range 且有 Content-Length 的直链文件下载。
-- 对于不支持 Range 或无法获取文件大小的资源，将提示错误。
-- 目前不支持 Git 仓库、FTP、SCP 等协议（可扩展）。
 
